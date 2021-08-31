@@ -15,18 +15,18 @@ function App() {
           Coming Soon
         </h1>
         <Timer />
-        <Preloader />
+        {/* <Preloader /> */}
         <h4>
-          Hello! Thank you for visiting us and supporting our small business.{' '}
-          <br />
-          In the meantime, please visit our{' '}
+          Hello! Thank you for visiting us. In the meantime, <br /> please visit
+          our{' '}
           <a
             style={{ color: 'white' }}
             href='https://www.etsy.com/shop/themushroomhunter'
           >
             ETSY STORE
           </a>
-          {'.'}
+          {'. '} <br />
+          Thank you for supporting our small business.
         </h4>
       </div>
     </div>
