@@ -18,7 +18,7 @@ function App() {
           Coming Soon
         </h1>
         <Timer />
-        {/* <Preloader /> */}
+        <Preloader />
         <h4>
           Hello! Thank you for visiting us. In the meantime, <br /> please visit
           our{' '}
