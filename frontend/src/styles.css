@@ -50,6 +50,14 @@ h4 {
   line-height: 1.5;
 }
 
+.iconcontainer {
+  justify-content: center;
+  align-self: center;
+  margin-top: 4rem;
+  display: flex;
+  flex-direction: row;
+}
+
 @media (min-width: 768px) {
   .container {
     width: 1100px;
