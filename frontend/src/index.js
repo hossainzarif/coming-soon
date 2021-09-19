@@ -34,6 +34,14 @@ function App() {
         </h4>
 
         <div className='iconcontainer'>
+          <a href='https://www.facebook.com/gomushroomhunting' target='_blank'>
+            {' '}
+            <FaFacebookSquare
+              size='3rem'
+              style={{ marginRight: 30 }}
+              color='white'
+            />
+          </a>
           <a
             href='https://www.instagram.com/gomushroomhunting/'
             target='_blank'
@@ -45,14 +53,7 @@ function App() {
               color='white'
             />
           </a>
-          <a href='https://www.facebook.com/gomushroomhunting' target='_blank'>
-            {' '}
-            <FaFacebookSquare
-              size='3rem'
-              style={{ marginRight: 30 }}
-              color='white'
-            />
-          </a>
+
           <a
             href='https://www.tiktok.com/@gomushroomhunting?lang=en'
             target='_blank'
